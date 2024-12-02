@@ -1,7 +1,2 @@
-# IDE and editor settings
-.vscode/
-.idea/
-*.iml
-
-# Others
+# Ignored files
 sampledata.archive
